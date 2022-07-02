@@ -1,2 +1,3 @@
-# Demo-git
+# Demo
+
 Practicing git
